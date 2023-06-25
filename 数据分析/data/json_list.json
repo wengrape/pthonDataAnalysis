@@ -1,0 +1,25 @@
+[
+    {
+        'class': '大一',
+        'student count': 200,
+        'info': {
+            'teachers': {
+                'java': '刘老师',
+                'python': '王老师'
+            }
+        }
+    },
+    {
+        'class': '大二',
+        'student count': 150,
+        'info': {
+            'teachers': {
+                'java': '陈老师',
+                'python': '李老师'
+            }
+        }
+    }
+]
+
+
+
